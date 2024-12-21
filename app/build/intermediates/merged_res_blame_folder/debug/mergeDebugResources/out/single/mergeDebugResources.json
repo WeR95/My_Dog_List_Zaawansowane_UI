@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-anydpi_ic_action_name.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-anydpi\\ic_action_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-xhdpi_dog.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-xhdpi\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_add_icon.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_dog_icon.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\dog_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.verticalcoding.mydoglist.app-debug-45:/drawable-xhdpi_favorite.png.flat",
+        "source": "com.verticalcoding.mydoglist.app-main-47:/drawable-xhdpi/favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_search_icon.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_heart_icon.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\heart_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-anydpi_dog.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-anydpi\\dog.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-hdpi_dog.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-hdpi\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_hear_icon.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\hear_icon.png"
+    },
+    {
+        "merged": "com.verticalcoding.mydoglist.app-debug-45:/drawable-xxxhdpi_favorite.png.flat",
+        "source": "com.verticalcoding.mydoglist.app-main-47:/drawable-xxxhdpi/favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-xxxhdpi_dog.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-xxxhdpi\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_sound_detection_dog_barking_24dp_e8eaed_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\sound_detection_dog_barking_24dp_e8eaed_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.verticalcoding.mydoglist.app-debug-45:/drawable-hdpi_favorite.png.flat",
+        "source": "com.verticalcoding.mydoglist.app-main-47:/drawable-hdpi/favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_delete_24dp_e8eaed_fill0_wght400_grad0_opsz24.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\delete_24dp_e8eaed_fill0_wght400_grad0_opsz24.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-mdpi_dog.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-mdpi\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_trash_icon.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\trash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.verticalcoding.mydoglist.app-debug-45:/drawable-xxhdpi_favorite.png.flat",
+        "source": "com.verticalcoding.mydoglist.app-main-47:/drawable-xxhdpi/favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-debug-45:\\drawable-xxhdpi_dog.png.flat",
+        "source": "C:\\Users\\twero\\.gradle\\daemon\\8.9\\com.verticalcoding.mydoglist.app-main-47:\\drawable-xxhdpi\\dog.png"
+    },
+    {
+        "merged": "com.verticalcoding.mydoglist.app-debug-45:/drawable-mdpi_favorite.png.flat",
+        "source": "com.verticalcoding.mydoglist.app-main-47:/drawable-mdpi/favorite.png"
+    }
+]
