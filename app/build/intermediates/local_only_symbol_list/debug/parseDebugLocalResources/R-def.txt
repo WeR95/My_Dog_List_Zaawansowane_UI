@@ -12,6 +12,7 @@ drawable delete_24dp_e8eaed_fill0_wght400_grad0_opsz24
 drawable dog
 drawable dog_icon
 drawable favorite
+drawable favorite_border
 drawable ic_action_name
 drawable ic_launcher_background
 drawable ic_launcher_foreground
